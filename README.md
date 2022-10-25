@@ -8,7 +8,19 @@ Provides the Horiseon website: with links to articles relating to the marketing 
 The website follows accessibility standards and is also optimised for search engines.
 Website content includes links to various agency articles relating to their customer offerings.
 
-The site makes use of html and css.
+The basic site makes use:
+
+- html
+- css
+
+## Usage
+Live site can be found at https://ateki.github.io/horiseon.com/
+
+## Screenshots
+
+
+### Home page
+<img src=assets/images/home_screenshot.png alt="Home Screen" width="200" style=" margin-right: 10px;" />
 
 
 
