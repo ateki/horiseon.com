@@ -17,6 +17,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Top header and navigation */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +57,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* Main page area with articles */
 main {
     width: 75%;
     display: inline-block;
@@ -84,6 +86,7 @@ main article h2 {
     font-size: 36px;
 }
 
+/* Articles to left hand side */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +128,7 @@ footer h2 {
 /* Class selectors */
 /* ----------------*/
 
+/* used to display main page image */
 .hero {
     height: 800px;
     width: 100%;
@@ -134,6 +138,7 @@ footer h2 {
     background-position: center;
 }
 
+/* Elements kept to left / right */
 .float-left {
     float: left;
     margin-right: 25px;
